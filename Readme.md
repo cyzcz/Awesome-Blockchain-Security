@@ -120,6 +120,7 @@ Capture the Flag (CTF) is a special kind of information security competitions
 - [DApp Radar](https://dappradar.com/): Discover, Track & Trade Everything DeFi, NFT and Gaming
 - [EthTx Transaction Decoder](https://ethtx.info/):EthTx is an open source decoder of blockchain transactions.
 - [Online Solidity Decompiler](https://www.ethervm.io/decompile)
+- [Chain.Love](https://chain.love/): Open-source directory of blockchain security tools, smart contract auditors, block explorers, RPC endpoints, and developer infrastructure. ([GitHub](https://github.com/Chain-Love/chain-love))
 
 ## Scam Identifiers
 - [Token Sniffer](https://tokensniffer.com): This site scans contracts for known scams, computes helpful token metrics, and maintains a list of scams
